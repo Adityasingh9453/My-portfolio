@@ -1,0 +1,14 @@
+﻿# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor directories
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# CV file (add manually, don't commit personal docs unless intended)
+# assets/Aditya_Singh_CV.pdf
